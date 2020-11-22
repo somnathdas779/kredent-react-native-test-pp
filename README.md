@@ -5,7 +5,7 @@
 ![alt text](https://github.com/somnathdas779/kredent-react-native-test-pp/blob/main/signup.png)
 
 
-# rest-pi-kredent-test
+
 
 ## Requirements
 
